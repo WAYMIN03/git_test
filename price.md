@@ -68,5 +68,3 @@ social-rl-simulator-v1-2/
 ├── setup_env.bat           # Windows 一鍵環境建立
 └── README.md               # 本說明文件
 ```
-
----
