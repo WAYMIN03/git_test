@@ -12,3 +12,5 @@ python main.py --batch_size 2048 --max_hours 5.0 --output_dir ./outputs --load_p
 python plot_results.py
 ```
 結果會即時更新儲存至 [outputs/training_results.png](file:///c:/Users/user1/Desktop/social-rl-simulator-v1-2/outputs/training_results.png).
+
+FETURE-2
